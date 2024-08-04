@@ -13,6 +13,8 @@
 
 ## Project Overview
 The goal of this project is to provide a comprehensive analysis of sales performance, product and order metrics, and shipping insights for an e-commerce company. This analysis covers data from 2009 to 2012, aiming to uncover trends, evaluate company performance, and provide actionable insights.
+<img width="1197" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/2217d2a1-237d-48a6-b62b-0005e0c11543">
+
 
 Key performance indicators are explored to understand:
 
