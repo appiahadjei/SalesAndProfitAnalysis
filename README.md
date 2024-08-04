@@ -96,6 +96,8 @@ Average Sales: AVG([Sales])
 #### (vi) Shipping Efficiency
   - High-priority orders were shipped in the least number of days.
 
+[Visit Tableau Public Visualization Dashboard](https://public.tableau.com/app/profile/michael.appiah.adjei/viz/SalesandProfitAnalysisProject/SalesDashboard)
+
 *Note: Filters in Tableau can be combined (e.g., year 2011 and Home Office segment) to view specific results.*
 
 ## Recommendations
